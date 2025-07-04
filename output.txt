@@ -1,0 +1,9 @@
+Enter total number of subjects: 3
+Enter credit for subject 1: 4
+Enter grade point for subject 1 (Ex: 9, 8.5): 9
+Enter credit for subject 2: 3
+Enter grade point for subject 2 (Ex: 9, 8.5): 8.5
+Enter credit for subject 3: 3
+Enter grade point for subject 3 (Ex: 9, 8.5): 7
+
+Your CGPA is: 8.25
